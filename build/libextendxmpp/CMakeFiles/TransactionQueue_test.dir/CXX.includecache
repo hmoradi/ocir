@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/Stanza.h
+string
+-
+strophe.h
+-
+
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/Transaction.h
+strophe.h
+-
+Stanza.h
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/Stanza.h
+
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/TransactionQueue.h
+list
+-
+Transaction.h
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/Transaction.h
+
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/TransactionQueue_test.cc
+iostream
+-
+strophe.h
+-
+Stanza.h
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/Stanza.h
+TransactionQueue.h
+/home/hesam/Desktop/OCIR-Project/libextendxmpp/TransactionQueue.h
+

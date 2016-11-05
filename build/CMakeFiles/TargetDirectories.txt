@@ -1,0 +1,9 @@
+/home/hesam/Desktop/OCIR-Project/build/CMakeFiles/edit_cache.dir
+/home/hesam/Desktop/OCIR-Project/build/CMakeFiles/rebuild_cache.dir
+/home/hesam/Desktop/OCIR-Project/build/CMakeFiles/HotSpotter.dir
+/home/hesam/Desktop/OCIR-Project/build/libextendxmpp/CMakeFiles/edit_cache.dir
+/home/hesam/Desktop/OCIR-Project/build/libextendxmpp/CMakeFiles/rebuild_cache.dir
+/home/hesam/Desktop/OCIR-Project/build/libextendxmpp/CMakeFiles/extendxmpp.dir
+/home/hesam/Desktop/OCIR-Project/build/libextendxmpp/CMakeFiles/XMPPWorker_test.dir
+/home/hesam/Desktop/OCIR-Project/build/libextendxmpp/CMakeFiles/XMPPUtils_test.dir
+/home/hesam/Desktop/OCIR-Project/build/libextendxmpp/CMakeFiles/TransactionQueue_test.dir
